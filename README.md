@@ -1,6 +1,13 @@
 # 💫 About Me:
-I am Currently Learning Full Stack Development<br>
+🌟 Full Stack Developer in Progress | Passionate About Web Development 🌟<br>
 
+Hey there! I'm currently learning full stack development at Red & White Multimedia Institute. I've completed C, HTML, CSS, and JavaScript, and I’m diving deep into Node.js.<br>
+🚀 Skills So Far:<br>
+
+C Language<br>
+HTML, CSS, JavaScript<br>
+WordPress Website Building<br>
+Currently working on: Node.js<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Divyesh-Variya) 
