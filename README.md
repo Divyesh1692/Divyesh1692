@@ -34,12 +34,10 @@ Hi there! I'm Divyesh Variya, a MERN Stack Developer with real-world experience 
 ---
 
 # 🚀 Projects Highlight:
-✅ **Looca** – Web card generator for brand/personal websites  
+✅ **Looca** – Web card generator for brand/personal websites with no coding
 ✅ **ArtPalette** – Mobile-first artist portfolio builder with no coding  
 🚧 **Acro Selector** – Smart content filter and e-commerce selection tool (In Progress)  
 🔐 **E-Library**, **Personal Blog**, **Task Manager**, **Expense Tracker**, and more  
-
-👉 Check pinned repositories to explore my work!
 
 ---
 
