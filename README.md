@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌟 MERN Stack Developer | Passionate About Clean Code & Scalable Solutions 🌟  
-Hi there! I'm Divyesh Variya, a MERN Stack Developer with real-world experience in backend development, API integration, and full-stack project delivery. Currently working at **Swiftrut Technology** and leading the web department at **Effectto Tech Society**, I bring a blend of strong problem-solving skills, teamwork, and a passion for building impactful applications.  
+Hi there! I'm Divyesh Variya, a MERN Stack Developer with real-world experience in backend development, API integration, and full-stack project delivery. I bring a blend of strong problem-solving skills, teamwork, and a passion for building impactful applications.  
 
 🔧 I specialize in crafting secure and scalable backend systems using **Node.js, ExpressJS, and MongoDB**, while also delivering dynamic UIs with **ReactJS and Tailwind CSS**.  
 
