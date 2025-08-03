@@ -10,7 +10,7 @@ Hi there! I'm Divyesh Variya, a MERN Stack Developer with real-world experience 
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyesh-variya)  
-📧 Email: divyeshvariya29@gmail.com  
+📧 Email: divyeshvariya1692@gmail.com  
 📍 Surat, Gujarat, India  
 
 ---
