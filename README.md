@@ -1,8 +1,11 @@
 # 💫 About Me:
-🌟 MERN Stack Developer | Passionate About Clean Code & Scalable Solutions 🌟  
-Hi there! I'm Divyesh Variya, a MERN Stack Developer with real-world experience in backend development, API integration, and full-stack project delivery. I bring a blend of strong problem-solving skills, teamwork, and a passion for building impactful applications.  
+🌟 Full Stack Developer 🌟  
+Hi there! I'm Divyesh Variya, Full Stack Developer with hands-on experience in designing and developing scalable web
+applications and Progressive Web Apps (PWA). Skilled in React.js, Node.js, Express.js, Java, Spring
+Boot, MongoDB, MySQL and DSA, with expertise in building REST APIs, Authentication Systems, ERP
+Modules, and Efficient Solutions.
 
-🔧 I specialize in crafting secure and scalable backend systems using **Node.js, ExpressJS, and MongoDB**, while also delivering dynamic UIs with **ReactJS and Tailwind CSS**.  
+🔧 I specialize in crafting secure and scalable backend systems using **Node.js, ExpressJS, Java Spring Boot, MySQL and MongoDB**, while also delivering dynamic UIs with **ReactJS and Tailwind CSS**.  
 
 🚀 Actively contributing to both client and in-house projects that involve full-stack architecture, authentication flows, data modeling, and project coordination.
 
