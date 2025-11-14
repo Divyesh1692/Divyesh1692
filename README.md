@@ -38,6 +38,7 @@ Modules, and Efficient Solutions.
 
 # 🚀 Projects Highlight:
 ✅ **Looca** – Web card generator for brand/personal websites with no coding
+✅ **ERP System** – Enterprise Resource Planning system (MERN + PWA)
 ✅ **ArtPalette** – Mobile-first artist portfolio builder with no coding  
 🚧 **Acro Selector** – Smart content filter and e-commerce selection tool (In Progress)  
 🔐 **E-Library**, **Personal Blog**, **Task Manager**, **Expense Tracker**, and more  
